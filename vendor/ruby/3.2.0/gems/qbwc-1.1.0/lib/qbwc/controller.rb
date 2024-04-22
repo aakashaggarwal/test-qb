@@ -1,7 +1,7 @@
 require 'wash_out/version'
 include WashOut
 
-
+g
 module QBWC
   module Controller
 

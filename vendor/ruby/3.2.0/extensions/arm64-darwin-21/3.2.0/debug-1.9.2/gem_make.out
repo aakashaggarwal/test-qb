@@ -1,0 +1,19 @@
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+/Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-1fp6qw sitelibdir\=./.gem.20240422-45045-1fp6qw clean
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-1fp6qw sitelibdir\=./.gem.20240422-45045-1fp6qw
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-1fp6qw sitelibdir\=./.gem.20240422-45045-1fp6qw install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20240422-45045-1fp6qw/debug
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-1fp6qw sitelibdir\=./.gem.20240422-45045-1fp6qw clean

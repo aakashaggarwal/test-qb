@@ -1,0 +1,18 @@
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-y6xjif sitelibdir\=./.gem.20240422-45045-y6xjif clean
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-y6xjif sitelibdir\=./.gem.20240422-45045-y6xjif
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-y6xjif sitelibdir\=./.gem.20240422-45045-y6xjif install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240422-45045-y6xjif/racc
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-y6xjif sitelibdir\=./.gem.20240422-45045-y6xjif clean

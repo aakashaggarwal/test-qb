@@ -1,0 +1,18 @@
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/bin/ruby -I /Users/aakashaggarwal/.rvm/rubies/ruby-3.2.1/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-6dzt9s sitelibdir\=./.gem.20240422-45045-6dzt9s clean
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-6dzt9s sitelibdir\=./.gem.20240422-45045-6dzt9s
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-6dzt9s sitelibdir\=./.gem.20240422-45045-6dzt9s install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20240422-45045-6dzt9s/skiptrace/internal
+
+current directory: /Users/aakashaggarwal/sourcewiz/blog/vendor/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240422-45045-6dzt9s sitelibdir\=./.gem.20240422-45045-6dzt9s clean
